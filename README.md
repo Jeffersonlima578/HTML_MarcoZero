@@ -11,4 +11,4 @@ Desafio em fazer uma pagina em HTML sobre marco zero recife.
 
 # Utilizado HTML.
 
-# Style acresentada no rodape CSS.
+
